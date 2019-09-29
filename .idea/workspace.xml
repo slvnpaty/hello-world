@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7505eb9c-4471-421a-9ea8-930b704c325f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RLzkwKCkV5uiGxT0QKQqe9vWrO" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hello-world/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SilvanePatrícia\WebstormProjects\hello-world\hello-world\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SilvanePatrícia\WebstormProjects\hello-world\hello-world\src\containers" />
+      <recent name="C:\Users\SilvanePatrícia\WebstormProjects\hello-world\hello-world\src\containers\_tests_" />
+      <recent name="C:\Users\SilvanePatrícia\WebstormProjects\hello-world\hello-world\src\components\_tests_" />
+      <recent name="C:\Users\SilvanePatrícia\WebstormProjects\hello-world\hello-world\src\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7505eb9c-4471-421a-9ea8-930b704c325f" name="Default Changelist" comment="" />
+      <created>1569461310661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569461310661</updated>
+      <workItem from="1569461313208" duration="2378000" />
+      <workItem from="1569489729102" duration="2621000" />
+      <workItem from="1569575798925" duration="971000" />
+      <workItem from="1569694683254" duration="707000" />
+      <workItem from="1569696267755" duration="595000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts</url>
+          <line>298</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
