@@ -4,11 +4,11 @@ describe("mapChooser",function(){
     it("return one image based on input given to it",function(){
         let expected = "portland.jpg";
         let actual = mapChooser("portland")
-        expect(atual).toEqual(esperado);
+        expect(actual).toEqual(expected);
     });
     it("one image",function(){
-        let esperado = "default";
-        let atual = mapChooser("");
-        expect(expected).toEqual(esperado);
+        let expected = "default.jpg";
+        let actual = mapChooser("");
+        expect(actual).toEqual(expected);
     });
 });
